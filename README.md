@@ -14,4 +14,4 @@ python inference_gfpgan.py --upscale 2 --test_path inputs/whole_imgs --save_root
     @this is the block of code
 ## java
 If you have any question, please email
-https://img.shields.io/github/downloads/TencentARC/GFPGAN/total
+[[adil]https://img.shields.io/github/downloads/TencentARC/GFPGAN/total]
