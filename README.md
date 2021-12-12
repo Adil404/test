@@ -11,6 +11,6 @@ python inference_gfpgan.py --upscale 2 --test_path inputs/whole_imgs --save_root
 ```
 `More high quality faces can improve the restoration quality.`
 ## python
-  @this is the block of code
+    @this is the block of code
 ## java
 If you have any question, please email
