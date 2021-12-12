@@ -6,3 +6,6 @@
 ---
 - :white_check_mark: ``` make sure you go through all the content```
 ---
+```bash
+python inference_gfpgan.py --upscale 2 --test_path inputs/whole_imgs --save_root results
+```
